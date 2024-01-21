@@ -1,2 +1,2 @@
 # end_year
-compsci end year project - online cat piano with features such as custom music and different cats!
+Freshman Year Computer Science End-Year Project (2023) - Online cat piano with features such as custom music and different cats!
